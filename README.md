@@ -5,7 +5,9 @@ One of the most costly aspects of any inspection activity is waiting for reports
 
 Using technology similar to this reporting time can be reduced by up to 90%. That translates to direct saving for your clients. If less time is spent reporting you can utilize smaller crews to inspect more equipment, which in turn could allow you to capture large market share across the industry. If you’re an owner user this means additional savings, not only by reduced crew size but also by getting information back as efficiently as possible.
 
-We hope you enjoy trying this tool. If technology like this interest you click on link below to reach out.ARMM SERVICES offers a wide array of software solutions that can add value to your organization.
+We hope you enjoy trying this tool. If technology like this interest you click on link below to reach out. [ARMM SERVICES](https://witty-desert-03f45541e.2.azurestaticapps.net/) offers a wide array of software solutions that can add value to your organization. 
+
+
 
 ## Architecture
 
